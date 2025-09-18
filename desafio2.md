@@ -1,2 +1,2 @@
-"## Altera‡äes do Desafio 2" 
-"Essa ‚ apenas uma altera‡Æo de teste feita na branch feature/desafio-2." 
+"## Desafio 2 feito agora de manhÆ" 
+"Arquivo de teste criado na branch feature/desafio-2" 
